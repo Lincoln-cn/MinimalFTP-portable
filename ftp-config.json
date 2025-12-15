@@ -1,0 +1,9 @@
+{
+    "port": 2121,
+    "users": [{
+        "password": "U[]aMe>{BPog!WES",
+        "readonly": false,
+        "root": "./ftp-root",
+        "username": "admin"
+    }]
+}
