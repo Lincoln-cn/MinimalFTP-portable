@@ -2,6 +2,8 @@
 
 A lightweight, configurable FTP server implementation based on Java, supporting JSON configuration files and multi-user authentication.
 
+[中文版本](README-zh.md)
+
 ## Features
 
 - 🚀 Lightweight FTP server implementation
@@ -17,7 +19,7 @@ A lightweight, configurable FTP server implementation based on Java, supporting 
 
 ### Download
 
-Download the latest version of the jar file from the [Releases](https://github.com/your-username/MinimalFTP-portable/releases) page.
+Download the latest version of the jar file from the [Releases](https://github.com/Lincoln-cn/MinimalFTP-portable/releases) page.
 
 ### Run
 

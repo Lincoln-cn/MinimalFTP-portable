@@ -17,7 +17,7 @@
 
 ### 下载
 
-从[Releases](https://github.com/your-username/MinimalFTP-portable/releases)页面下载最新版本的jar文件。
+从[Releases](https://github.com/Lincoln-cn/MinimalFTP-portable/releases)页面下载最新版本的jar文件。
 
 ### 运行
 
