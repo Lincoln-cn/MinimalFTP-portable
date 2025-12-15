@@ -36,8 +36,6 @@ On first run, a default configuration and account will be automatically generate
 - Username: `admin`
 - Password: Auto-generated strong password (will be displayed in the console)
 
-> ⚠️ Note: Please change the default password immediately after first login!
-
 ## Configuration
 
 ### Command Line Parameters
@@ -76,6 +74,7 @@ The default configuration file `ftp-config.json` has the following format:
   ]
 }
 ```
+> ⚠️ Note: Please use strong passwords in the configuration file for security!
 
 #### Field Descriptions
 

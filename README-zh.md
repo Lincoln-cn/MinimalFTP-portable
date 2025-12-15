@@ -36,7 +36,7 @@ java -jar PortableFTPServer-1.0.jar
 - 用户名: `admin`
 - 密码: 自动生成的高强度密码（会在控制台显示）
 
-> ⚠️ 注意：请在首次登录后立即修改默认密码！
+
 
 ## 配置
 
@@ -76,6 +76,7 @@ java -Dftp.config=/path/to/config.json -Dftp.log=/path/to/server.log -jar Minima
   ]
 }
 ```
+> ⚠️ 注意：请在配置文件中使用的密码采用高复杂度随机生成的密码，避免被攻击者利用弱密码进行攻击。
 
 #### 字段说明
 
