@@ -2,6 +2,8 @@
 
 一个基于Java的轻量级、可配置的FTP服务器实现，支持JSON配置文件和多用户认证。
 
+[English Version](README.md)
+
 ## 特性
 
 - 🚀 轻量级FTP服务器实现
